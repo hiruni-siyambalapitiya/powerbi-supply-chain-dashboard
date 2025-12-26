@@ -29,4 +29,4 @@ This Power BI dashboard analyzes supply chain performance including:
 - `supply chain.pbix` – Main Power BI dashboard file
 
 ## 👤 Author
-Hiruni Nimasha
+Hiruni  siyambalapitiya
