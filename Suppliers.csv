@@ -1,0 +1,11 @@
+Supplier_ID,Supplier_Name,Country,Lead_Time_Days,On_Time_Delivery_%,Supplier_Rating
+SUP01,Supplier 1,Sri Lanka,9,90,4.4
+SUP02,Supplier 2,Sri Lanka,6,83,3.5
+SUP03,Supplier 3,Sri Lanka,13,87,3.5
+SUP04,Supplier 4,Sri Lanka,10,82,4.3
+SUP05,Supplier 5,Sri Lanka,7,81,4.1
+SUP06,Supplier 6,Sri Lanka,9,91,3.6
+SUP07,Supplier 7,Sri Lanka,12,85,5.0
+SUP08,Supplier 8,Sri Lanka,5,81,3.8
+SUP09,Supplier 9,Sri Lanka,9,80,3.6
+SUP10,Supplier 10,Sri Lanka,13,91,4.4

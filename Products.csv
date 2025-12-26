@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Category,Brand,Supplier_ID,Unit_Cost,Unit_Price,Reorder_Level
+P001,Product 1,Household,Maliban,SUP07,689,1463,30
+P002,Product 2,Grocery,Nestle,SUP09,430,995,56
+P003,Product 3,Household,Maliban,SUP08,240,1384,42
+P004,Product 4,Grocery,Maliban,SUP05,227,1306,70
+P005,Product 5,Household,Nestle,SUP02,334,1130,32
+P006,Product 6,Household,Nestle,SUP05,400,1070,68
+P007,Product 7,Grocery,Nestle,SUP08,232,1440,35
+P008,Product 8,Grocery,Nestle,SUP10,247,935,37
+P009,Product 9,Household,Nestle,SUP09,702,1424,56
+P010,Product 10,Beverages,Maliban,SUP09,606,1059,38
+P011,Product 11,Grocery,Nestle,SUP01,773,1142,66
+P012,Product 12,Beverages,Anchor,SUP09,298,985,62
+P013,Product 13,Beverages,Munchee,SUP07,746,1477,71
+P014,Product 14,Beverages,Nestle,SUP09,661,1456,73
+P015,Product 15,Grocery,Nestle,SUP08,204,1473,53
+P016,Product 16,Beverages,Maliban,SUP01,417,927,44
+P017,Product 17,Grocery,Nestle,SUP08,702,1455,61
+P018,Product 18,Beverages,Nestle,SUP08,597,1239,61
+P019,Product 19,Household,Nestle,SUP03,592,1230,53
+P020,Product 20,Household,Maliban,SUP01,406,1405,70
+P021,Product 21,Grocery,Nestle,SUP08,214,1247,78
+P022,Product 22,Household,Munchee,SUP03,753,1372,78
+P023,Product 23,Household,Maliban,SUP03,660,1130,41
+P024,Product 24,Beverages,Munchee,SUP01,774,1089,68
+P025,Product 25,Grocery,Maliban,SUP05,440,1124,31

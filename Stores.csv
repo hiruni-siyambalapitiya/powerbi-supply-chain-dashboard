@@ -1,0 +1,9 @@
+Store_ID,Store_Name,City,Province,Country,Latitude,Longitude,Store_Type
+ST01,Colombo Store,Colombo,Western,Sri Lanka,6.9271,79.8612,Urban
+ST02,Galle Store,Galle,Southern,Sri Lanka,6.0535,80.221,Urban
+ST03,Kandy Store,Kandy,Central,Sri Lanka,7.2906,80.6337,Urban
+ST04,Jaffna Store,Jaffna,Northern,Sri Lanka,9.6615,80.0255,Urban
+ST05,Negombo Store,Negombo,Western,Sri Lanka,7.2083,79.8358,Urban
+ST06,Matara Store,Matara,Southern,Sri Lanka,5.9496,80.535,Urban
+ST07,Kurunegala Store,Kurunegala,North Western,Sri Lanka,7.4863,80.3623,Urban
+ST08,Anuradhapura Store,Anuradhapura,North Central,Sri Lanka,8.3114,80.4037,Urban
